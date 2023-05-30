@@ -1,0 +1,13 @@
+{
+    "openai_api_key": "your_openai_api_key",
+    "telegram_api_id": "your_api_id",
+    "telegram_api_hash": "your_api_hash",
+    "my_user_id": "your_user_id",
+    "phone_numb": "Your_phone_number", 
+    "language_abbreviations": {
+        "!eng": "English",
+        "!rus": "Russian",
+        "!ger": "German",
+        "!fr": "French"
+    }
+}
